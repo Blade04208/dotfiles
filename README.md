@@ -14,14 +14,14 @@ top of page > big green button > download ZIP
 
 2. extract, go to src and run `install.sh`
 ##### what this script does:
- 1. installs Gradience, Black Box and flathub using flatpak
- 2. moves my .config to yours
- 3. installs extensions to your user directory
- 4. loads my dconf
- 5. moves the blackbox theme to its directory
- 6. adds `export PATH=$PATH:~/.local/bin` to your .bashrc
- 7. installs OhMyPosh
- 8. adds `eval "$(oh-my-posh init bash --config ~/.config/ohmyposh.omp.json)"` to your bashrc
+ i. installs Gradience, Black Box and flathub using flatpak
+ ii. moves my .config to yours
+ iii. installs extensions to your user directory
+ iv. loads my dconf
+ v. moves the blackbox theme to its directory
+ vi. adds `export PATH=$PATH:~/.local/bin` to your .bashrc
+ vii. installs OhMyPosh
+ viii. adds `eval "$(oh-my-posh init bash --config ~/.config/ohmyposh.omp.json)"` to your bashrc
 
 3. reboot
 4. open black box and set your scheme to catppuccin macchiato
