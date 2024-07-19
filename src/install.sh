@@ -1,5 +1,6 @@
 #!/bin/sh
 flatpak install flathub com.github.GradienceTeam.Gradience com.raggesilver.BlackBox
+mv dotconfig .config
 cd .config
 mv * ~/.config
 cd ..
