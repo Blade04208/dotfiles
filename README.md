@@ -1,6 +1,14 @@
 # blade0 dotfiles
 
 a good idea, probably
+
+
+### these dotfiles have nothing to do with zenos, and are not used in making zenos, zenos uses nullshell, not gnome.
+### open bar does not exist in zenos because zenos uses nullshell and not gnome.
+
+### touch grass, redditor
+
+
 ![desktop](https://raw.githubusercontent.com/blade04208/dotfiles/july2024/assets/desktop.png)
 
 ## installing
